@@ -1,8 +1,8 @@
-package Atividade_java;
+package Atividade_java_if;
 
 import java.util.Scanner;
 
-public class Exercicios {
+public class Exercicio_if {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
